@@ -2,7 +2,7 @@
 #
 # Filename: model.py
 # Description:
-# Author: Kwang Moo Yi
+# Author: Archit Kumar
 # Maintainer:
 # Created: Thu Jan 24 17:28:40 2019 (-0800)
 # Version:
