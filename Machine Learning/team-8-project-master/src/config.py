@@ -2,7 +2,7 @@
 #
 # Filename: config.py
 # Description:
-# Author: Kwang Moo Yi
+# Author: Archit Kumar
 # Maintainer:
 # Created: Mon Jan 15 12:08:58 2018 (-0800)
 # Version:
