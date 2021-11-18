@@ -2,7 +2,7 @@
 #
 # Filename: solution.py
 # Description:
-# Author: Kwang Moo Yi
+# Author: Archit Kumar
 # Maintainer:
 # Created: Sun Mar  4 19:58:30 2018 (-0800)
 # Version:
