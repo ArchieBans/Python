@@ -2,7 +2,7 @@
 #
 # Filename: cifar10.py
 # Description:
-# Author: Kwang Moo Yi
+# Author: Archit Kumar
 # Maintainer:
 # Created: Sun Jan 14 20:44:24 2018 (-0800)
 # Version:
